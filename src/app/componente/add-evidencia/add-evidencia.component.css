@@ -1,0 +1,15 @@
+.container{
+    height: 0%;
+    width: 40% ;
+}
+.card{
+    text-align: center;
+
+}
+h6{
+    font-size: 1.0rem;
+    color: rgb(26, 24, 24);
+    font-family: Helvetica, Arial, sans-serif;
+    text-align: center;
+  
+}
